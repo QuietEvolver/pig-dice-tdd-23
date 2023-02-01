@@ -1,4 +1,4 @@
-import Dice from './../src/dice.js';
+import Dice from '../src/js/dice.js';
 
 describe('Dice', () => {
   test('should creat a dice object', () => {
